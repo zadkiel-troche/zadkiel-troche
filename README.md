@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Zadkiel Troche</h1>
 <span align="center"><b>Soy Desarrollador Full Stack</b>, con mas de 3 años de experiencia trabajando en proyectos web complejos, manteniendo las actualizaciones y la escalabilidad de las mismas, ademas de desarrollar una aplicacion para dispositivos moviles desde cero en React Native. Actualmente estoy cursando la carrera de Analisis de Sistemas informaticos, he recibido el titulo de Técnico Superior Programador de Computadoras en el año 2023 y espero recibirme como Licenciado en el 2025. 🤩 🔭 Estoy abierto a nuevas oportunidades laborales donde pueda demostrar mis habilidades y seguir creciendo de forma personal y profesional.</span>
 
+<br><br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zadkiel-troche" alt="zadkiel-troche" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
